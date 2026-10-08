@@ -1,6 +1,6 @@
 # Hi, I'm Pramodh Natarajan
 
-**CTO & Head of AI at [Pipeline AI](https://addpipeline.ai)** — building intelligent systems that help revenue teams identify, engage, and convert the right prospects.
+**CTO at [Pipeline AI](https://addpipeline.ai)** — building intelligent systems that help revenue teams identify, engage, and convert the right prospects.
 
 Previously:
 - **LiveRamp** — Engineering Manager (TLM); next-gen data pipelines at petabyte scale
@@ -11,3 +11,5 @@ Previously:
 Based in Bengaluru, India. Most of my recent work is in private repos — the public ones here are largely from my grad-school days at ASU.
 
 📫 [LinkedIn](https://www.linkedin.com/in/pramodhnatarajan)
+
+🌐 [Website](https://pramodh-natarajan.vercel.app/)
